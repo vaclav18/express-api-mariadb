@@ -12,7 +12,7 @@ Create a new record for Users: POST /users
 name {string}
 
 
-![Aplication architecture](./doc/api-nodejs-express-mariadb-backend-server.png)
+![Aplication architecture](doc/api-nodejs-express-mariadb-backend-server.png)
 
 ## Installation: 
 
